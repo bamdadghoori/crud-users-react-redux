@@ -1,18 +1,26 @@
 {
   "files": {
-    "main.css": "/crud-users-react-redux/static/css/main.80440af3.css",
-    "main.js": "/crud-users-react-redux/static/js/main.3dfde257.js",
+    "main.css": "/crud-users-react-redux/static/css/main.b214308c.css",
+    "main.js": "/crud-users-react-redux/static/js/main.7d320c8e.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/crud-users-react-redux/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fontawesome-webfont.eot": "/crud-users-react-redux/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
     "static/media/fontawesome-webfont.ttf?v=4.7.0": "/crud-users-react-redux/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
     "static/media/fontawesome-webfont.woff?v=4.7.0": "/crud-users-react-redux/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/crud-users-react-redux/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/roboto-all-400-normal.woff": "/crud-users-react-redux/static/media/roboto-all-400-normal.376ea5d93f71583052f6.woff",
+    "static/media/roboto-latin-400-normal.woff2": "/crud-users-react-redux/static/media/roboto-latin-400-normal.4673b4537a84c7f7a130.woff2",
+    "static/media/roboto-cyrillic-ext-400-normal.woff2": "/crud-users-react-redux/static/media/roboto-cyrillic-ext-400-normal.493afe7ae8ecfe268800.woff2",
+    "static/media/roboto-latin-ext-400-normal.woff2": "/crud-users-react-redux/static/media/roboto-latin-ext-400-normal.c3dcdbd5bb4d4af80817.woff2",
+    "static/media/roboto-cyrillic-400-normal.woff2": "/crud-users-react-redux/static/media/roboto-cyrillic-400-normal.5e493812deabd1d01e60.woff2",
+    "static/media/roboto-greek-400-normal.woff2": "/crud-users-react-redux/static/media/roboto-greek-400-normal.1cbfc636c911faa4d0ca.woff2",
+    "static/media/roboto-vietnamese-400-normal.woff2": "/crud-users-react-redux/static/media/roboto-vietnamese-400-normal.c0bec65d01f776c00c91.woff2",
+    "static/media/roboto-greek-ext-400-normal.woff2": "/crud-users-react-redux/static/media/roboto-greek-ext-400-normal.bb723e8458c9c653e505.woff2",
     "index.html": "/crud-users-react-redux/index.html",
-    "main.80440af3.css.map": "/crud-users-react-redux/static/css/main.80440af3.css.map",
-    "main.3dfde257.js.map": "/crud-users-react-redux/static/js/main.3dfde257.js.map"
+    "main.b214308c.css.map": "/crud-users-react-redux/static/css/main.b214308c.css.map",
+    "main.7d320c8e.js.map": "/crud-users-react-redux/static/js/main.7d320c8e.js.map"
   },
   "entrypoints": [
-    "static/css/main.80440af3.css",
-    "static/js/main.3dfde257.js"
+    "static/css/main.b214308c.css",
+    "static/js/main.7d320c8e.js"
   ]
 }
