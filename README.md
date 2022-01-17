@@ -1,4 +1,4 @@
-A responsive CRUD users application using react, functional components(react-hooks) , redux, redux-thunk and fake api(https://reqres.in/).
+A responsive CRUD users application using react, functional components(react-hooks) , redux, redux-thunk, react-router-dom v6 and fake api(https://reqres.in/).
 
 live demo : https://bamdadghoori.github.io/crud-users-react-redux/.
 
