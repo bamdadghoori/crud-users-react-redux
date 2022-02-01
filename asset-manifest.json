@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/crud-users-react-redux/static/css/main.e2c8d0db.css",
-    "main.js": "/crud-users-react-redux/static/js/main.e5118a3a.js",
+    "main.css": "/crud-users-react-redux/static/css/main.8cbd450b.css",
+    "main.js": "/crud-users-react-redux/static/js/main.fcfe4050.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/crud-users-react-redux/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fontawesome-webfont.eot": "/crud-users-react-redux/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
     "static/media/fontawesome-webfont.ttf?v=4.7.0": "/crud-users-react-redux/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
@@ -16,11 +16,11 @@
     "static/media/roboto-vietnamese-400-normal.woff2": "/crud-users-react-redux/static/media/roboto-vietnamese-400-normal.c0bec65d01f776c00c91.woff2",
     "static/media/roboto-greek-ext-400-normal.woff2": "/crud-users-react-redux/static/media/roboto-greek-ext-400-normal.bb723e8458c9c653e505.woff2",
     "index.html": "/crud-users-react-redux/index.html",
-    "main.e2c8d0db.css.map": "/crud-users-react-redux/static/css/main.e2c8d0db.css.map",
-    "main.e5118a3a.js.map": "/crud-users-react-redux/static/js/main.e5118a3a.js.map"
+    "main.8cbd450b.css.map": "/crud-users-react-redux/static/css/main.8cbd450b.css.map",
+    "main.fcfe4050.js.map": "/crud-users-react-redux/static/js/main.fcfe4050.js.map"
   },
   "entrypoints": [
-    "static/css/main.e2c8d0db.css",
-    "static/js/main.e5118a3a.js"
+    "static/css/main.8cbd450b.css",
+    "static/js/main.fcfe4050.js"
   ]
 }
